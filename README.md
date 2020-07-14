@@ -2,7 +2,7 @@
 Code snipets for future reference
 
 
-## Online
+## GIT
 
-#### John Elder repository
-http://johnelder.com/code/index.php
+#### External GIT snippets
+http://johnelder.com/code/git.php
